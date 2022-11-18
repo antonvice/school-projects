@@ -1,6 +1,3 @@
-# How I made a computer daydream an avocado
-## The Code
-```py
 import numpy as np
 from functools import partial
 import PIL.Image
