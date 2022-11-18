@@ -49,16 +49,16 @@ Now the most important for you to know about me - my skillset. This list is cons
 
 
 ### Regression
-* [Bitcoin Prediction](https://github.com/antonvice/school-projects/tree/master/Projects/Predicting%20Bitcoin%20Price%20trends)
+* [Bitcoin Prediction](https://github.com/antonvice/school-projects/tree/main/Projects/Predicting%20Bitcoin%20Price%20Trends)
 
 
 ### Classification
 * [Classic](https://github.com/antonvice/school-projects/tree/master/Projects/Classification)
 * [Computer Says "NO"](https://github.com/antonvice/school-projects/tree/master/Projects/Comp_NO)
-* [Breast Cancer Classification](https://github.com/antonvice/school-projects/tree/master/Projects/Breast_Cancer)
+* [Breast Cancer Classification](https://github.com/antonvice/school-projects/tree/main/Projects/Breast%20Cancer)
 
 ### Clusterization
-* [Cluster](https://github.com/antonvice/school-projects/tree/master/Projects/Cluster_Students)
+* [Cluster](https://github.com/antonvice/school-projects/tree/master/Projects/Clusterization)
 
 ### NLP
 * [NLP](https://github.com/antonvice/school-projects/tree/master/Projects/NLP)
